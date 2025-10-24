@@ -1,0 +1,2 @@
+APP: A journal for users to enter their current moods and add notes. 
+
